@@ -382,7 +382,7 @@ recipes:
     - REGENERATION/1/2-5
     - SPEED/1/30-140
   irnbru:
-    name: 'Stale &#FFAC1CIIrnBru/&#FFAC1CIrnBru/Strong &#FFAC1CIrnBru
+    name: 'Stale &#FFAC1CIIrnBru/&#FFAC1CIrnBru/Strong &#FFAC1CIrnBru'
     ingredients:
     - Sugar_Cane/2
     - Glow_Berries/2
@@ -391,7 +391,8 @@ recipes:
     color: 'ffac1c'
     difficulty: 3
     alcohol: -6
-    lore: '&6Made from real girders'
+    lore: 
+    - '&6Made from real girders'
     effects:
     - REGENERATION/1/2-5
     - SPEED/1/30-140
